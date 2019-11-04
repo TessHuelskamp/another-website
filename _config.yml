@@ -2,7 +2,7 @@
 #markdown:         redcarpet
 markdown:         kramdown
 highlighter:      pygments
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
